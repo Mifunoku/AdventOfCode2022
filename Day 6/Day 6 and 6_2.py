@@ -1,4 +1,3 @@
-import re
 
 my_file, marker_length = "input.txt", 14
 # my_file, marker_length = "input_test.txt", 4
